@@ -1,4 +1,4 @@
-# Microsoft Face API: iOS Client Library & Sample
+# Microsoft Face API: iOS Client Library & Sample 
 This repo contains the iOS client library & sample for the Microsoft Face API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
 * [Learn about the Face API](https://www.microsoft.com/cognitive-services/en-us/face-api)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/face-api/documentation/overview)
